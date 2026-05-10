@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nicolas
+# 👋 Hi, I'm Nicolás
 
 Backend developer focused on building REST APIs with Java and Spring Boot. I enjoy working on the logic behind applications and structuring clean, functional services.
 
