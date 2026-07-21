@@ -1,62 +1,31 @@
-# 👋 Hi, I'm Nicolas
+# ¡Hola, bienvenido a mi perfil! 👋
 
-Backend developer focused on building REST APIs with Java and Spring Boot. I enjoy working on the logic behind applications and structuring clean, functional services.
-
----
-
-## 🚀 About Me
-
-I'm currently developing a backend project structured with controllers, services, and repositories, handling core features like user management, product handling, and shopping cart logic.
-
-I work with technologies like JPA (Jakarta), Lombok, and Java Streams to keep code clean and organized. I also use logging and transactional operations to manage application flow.
-
-I also have experience with HTML and CSS, and I'm currently working on integrating a frontend to turn this project into a full-stack application.
+Soy un estudiante universitario apasionado por el desarrollo de software backend y la creación de soluciones robustas. Actualmente me encuentro construyendo y escalando APIs profesionales con Java y Spring Boot.
 
 ---
 
-## 🛒 Project: Streetwear Backend
+### 🛠️ Tecnologías y Herramientas
 
-This project is a REST API that simulates the core functionality of an e-commerce system.
-
-### 🔧 Features
-
-* User management (create and retrieve users)
-* Product management (CRUD operations and search by name)
-* Shopping cart system:
-
-  * Add products to cart
-  * Update quantities
-  * Remove items
-  * Calculate total price
-
-### 🧠 Technical Highlights
-
-* Layered architecture (Controller, Service, Repository)
-* Use of Java Streams for data processing
-* Transactional operations with `@Transactional`
-* Logging with SLF4J
-* JPA relationships (OneToOne, OneToMany)
-
-### ⚠️ Notes
-
-This project focuses on backend structure and core logic.
-Some aspects like authentication, advanced validation, and concurrency handling are areas planned for improvement.
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Proyectos Destacados
 
-* Java
-* Spring Boot
-* Jakarta Persistence (JPA)
-* Lombok
-* HTML & CSS
-* Maven
-* Git & GitHub
+* **[Football League API](https://github.com/NlCOl4S/FootballLeague)**: API REST backend para la gestión de una liga de fútbol. Desarrollada con Spring Boot, Spring Security (JWT), MySQL, Hibernate, manejo global de excepciones y documentación interactiva con Swagger UI.
 
 ---
 
-## 📫 Contact
+### 📈 Estadísticas de GitHub
 
-* GitHub: https://github.com/NICOI4S
-* Email: nicolasalarcon.correo@gmail.com
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NlCOl4S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
