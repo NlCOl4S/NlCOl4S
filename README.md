@@ -28,6 +28,8 @@ Soy un estudiante universitario apasionado por el desarrollo de software backend
 
 <div align="center">
   <img src="https://vercel.app" alt="GitHub Stats" />
-  
-  <img src="https://vercel.app" alt="GitHub Summary" />
+
+  <img src="https://vercel.app" alt="Top Languages" />
+
+  <img src="https://vercel.app" alt="GitHub Streak" />
 </div>
