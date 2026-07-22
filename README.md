@@ -27,8 +27,7 @@ Soy un estudiante universitario apasionado por el desarrollo de software backend
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-
-  <img src="https://vercel.app" alt="Top Languages" />
+  <img src="https://vercel.app" alt="GitHub Stats" />
   
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
+  <img src="https://vercel.app" alt="GitHub Summary" />
 </div>
