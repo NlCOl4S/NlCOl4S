@@ -27,5 +27,8 @@ Soy un estudiante universitario apasionado por el desarrollo de software backend
 ### 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NlCOl4S&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+  <img src="https://vercel.app" alt="Top Languages" />
+  
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </div>
